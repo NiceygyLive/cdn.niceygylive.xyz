@@ -4,5 +4,5 @@
     "name": "DISC-CONNECT",
     "location": "IE",
     "deployment_model": "GLOBAL",
-    "environment": "development"
+    "environment": "production"
 }
