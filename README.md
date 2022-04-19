@@ -1,5 +1,3 @@
-# files-uploads-and-AAMS-Database
-
 Hallo! I'm Niceygy (nice-ee-gee). This repo is for my AAMS CDN and
 soon to be bot. All files can be found via raw.githack.com. 
 
